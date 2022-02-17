@@ -1,4 +1,5 @@
-﻿global using System;
+#pragma warning disable IDE0065 // Die using-Anweisung wurde falsch platziert.
+global using System;
 global using System.Collections.Generic;
 global using System.Diagnostics.CodeAnalysis;
 global using System.Linq;
@@ -15,3 +16,4 @@ global using libsignalservice.configuration;
 global using libsignalservice.crypto;
 global using libsignalservice.messages;
 global using libsignalservice.push;
+#pragma warning restore IDE0065 // Die using-Anweisung wurde falsch platziert.
