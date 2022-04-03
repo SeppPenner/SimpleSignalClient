@@ -1,0 +1,5 @@
+https://github.com/signal-csharp/libsignal-protocol-dotnet
+https://github.com/signalapp/libsignal-protocol-java
+https://github.com/signal-csharp/libsignal-service-dotnet
+https://github.com/signalapp/libsignal-service-java
+https://github.com/signalapp/Signal-Desktop/blob/25dd060a4df5f27afff5ced1f60a27fa150fbb6b/config/production.json
